@@ -30,3 +30,6 @@
 <img src="https://github.com/Monkey-hk4/krusty/blob/main/fotos/foto_krusty.png">
 <img src="https://github.com/Monkey-hk4/krusty/blob/main/fotos/magaly.png">
 
+# INFO
+* PARA MAS INFORMACION MANDAME UN MENSAJE A MI INSTAGRAM : d4vid.0day
+* O A MI TELEGRAM : @mhk4_0
