@@ -25,11 +25,25 @@
 * WINDOWS 11 NI IDEA XD
 * LINUX
 
+# INSTALACIÓN
+* WINDOWS
+```bash
+Descargar el repositorio como .zip, descomprimir y ejecutar krusty.exe
+```
+* LINUX
+```bash
+* git clone https://github.com/Monkey-hk4/krusty
+* cd krusty
+* sudo su
+* chmod 777 krusty
+* ./krusty
+```
+
 ## 📸 FOTOS
 
 <img src="https://github.com/Monkey-hk4/krusty/blob/main/fotos/foto_krusty.png">
 <img src="https://github.com/Monkey-hk4/krusty/blob/main/fotos/magaly.png">
 
-# INFO
+# MIS REDES SOCIALES
 * PARA MAS INFORMACION MANDAME UN MENSAJE A MI INSTAGRAM : d4vid.0day
 * O A MI TELEGRAM : @mhk4_0
