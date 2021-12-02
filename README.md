@@ -1,4 +1,4 @@
-# 🤡  krusty  🤡 PROXIMAMENTE...
+# 🤡  krusty  🤡 
 <h3> ☢ BOT CONSULTAS DNI ☢ </h3>
 <br/>
 </br>
