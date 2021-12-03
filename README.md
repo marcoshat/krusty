@@ -47,3 +47,12 @@ Descargar el repositorio como .zip, descomprimir y ejecutar krusty.exe
 # MIS REDES SOCIALES
 * PARA MAS INFORMACION MANDAME UN MENSAJE A MI INSTAGRAM : d4vid.0day
 * O A MI TELEGRAM : @mhk4_0
+
+```bash
+
+▄ •▄ ▄▄▄  ▄• ▄▌.▄▄ · ▄▄▄▄▄ ▄· ▄▌
+█▌▄▌▪▀▄ █·█▪██▌▐█ ▀. •██  ▐█▪██▌
+▐▀▀▄·▐▀▀▄ █▌▐█▌▄▀▀▀█▄ ▐█.▪▐█▌▐█▪
+▐█.█▌▐█•█▌▐█▄█▌▐█▄▪▐█ ▐█▌· ▐█▀·.
+·▀  ▀.▀  ▀ ▀▀▀  ▀▀▀▀  ▀▀▀   ▀ • 
+```
