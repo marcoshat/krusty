@@ -44,6 +44,9 @@ Descargar el repositorio como .zip, descomprimir y ejecutar krusty.exe
 <img src="https://github.com/Monkey-hk4/krusty/blob/main/fotos/foto_krusty.png">
 <img src="https://github.com/Monkey-hk4/krusty/blob/main/fotos/magaly.png">
 
+- EN WINDOWS
+<img src="https://github.com/Monkey-hk4/krusty/blob/main/fotos/IMG_20211203_095055.png">
+
 # MIS REDES SOCIALES
 * PARA MAS INFORMACION MANDAME UN MENSAJE A MI INSTAGRAM : d4vid.0day
 * O A MI TELEGRAM : @mhk4_0
