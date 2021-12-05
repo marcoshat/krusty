@@ -26,10 +26,7 @@
 * LINUX
 
 # INSTALACIÓN
-* WINDOWS
-```bash
-Descargar el repositorio como .zip, descomprimir y ejecutar krusty.exe
-```
+
 * LINUX
 ```bash
 * git clone https://github.com/Monkey-hk4/krusty
