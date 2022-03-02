@@ -31,7 +31,7 @@
 
 ## 📸 FOTOS
 
-<img src="https://github.com/Monkey-hk4/krusty/blob/main/fotos/IMG_20211203_095055.png">
+<img src="https://github.com/Monkey-hk4/krusty/blob/main/fotos/imagen_2022-03-01_232726.png">
 
 # MIS REDES SOCIALES
 * PARA MAS INFORMACION MANDAME UN MENSAJE A MI INSTAGRAM : d4vid.0day
