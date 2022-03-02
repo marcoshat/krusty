@@ -12,9 +12,6 @@
 * [+] APELLIDOS
 * [+] DIRECCION DE CASA
 * [+] UBIGEO
-* [+] DEPARTAMENTO
-* [+] PROVINCIA
-* [+] DISTRITO
 * [+] ESTADO CIVIL
 * [+] RESTRICCIONES
 * [+] FOTO DEL ROSTRO DE LA PERSONA CONSULTADA
@@ -28,9 +25,6 @@
 ```bash
 * git clone https://github.com/Monkey-hk4/krusty
 * cd krusty
-* sudo su
-* chmod 777 krusty
-* ./krusty
 ```
 
 ## 📸 FOTOS
