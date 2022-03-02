@@ -23,7 +23,6 @@
 
 # INSTALACIÓN
 
-* LINUX
 ```bash
 * git clone https://github.com/Monkey-hk4/krusty
 * cd krusty
