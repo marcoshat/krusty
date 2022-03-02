@@ -18,6 +18,8 @@
 
 # SISTEMAS OPERATIVOS DISPONIBLES ✅
 * Linux
+* Windows
+* Termux
 
 # INSTALACIÓN
 
@@ -25,6 +27,7 @@
 ```bash
 * git clone https://github.com/Monkey-hk4/krusty
 * cd krusty
+* python3 krusty.py
 ```
 
 ## 📸 FOTOS
